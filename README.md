@@ -23,7 +23,8 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I spend most of my time with Ida, I go to gym, code, and play games
 
-- :mailbox:How to contact me: discord: d4niel#8626
+- :mailbox:How to contact me: 
+- discord: d4niel#8626
 
 ### :hammer_and_wrench: Languages i use:
 <div>
