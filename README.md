@@ -7,7 +7,8 @@
  </a>
  </div>
  <div align="center">
- <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+ <img src="https://gpvc.arturio.dev/github-profile-views-counter" alt=""/>
+ <- totally not fake
   <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
