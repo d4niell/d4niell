@@ -5,6 +5,9 @@
  <a href="https://www.youtube.com/channel/UC-PdAQFjgvjWuDECglST_ww/featured">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
  </a>
+ <a href="https://open.spotify.com/playlist/6sowPC63k41U7pxRBiceJz">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
+ </a>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
  [![GitHub contributors](https://img.shields.io/github/contributors/d4niell/dbincpp-ImGUI)](https://github.com/d4niell/dbincpp-ImGUI/graphs/contributors) 
@@ -47,3 +50,9 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
  <img src= "https://github-readme-stats.vercel.app/api?username=d4niell" width "40px" height="200"/>
           
 </div>
+
+### :zap: My Specs
+
+![gpu](https://img.shields.io/badge/NVIDIA-GTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+![cpu](https://img.shields.io/badge/Intel-Core_i5_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
