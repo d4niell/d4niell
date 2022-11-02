@@ -5,7 +5,7 @@
  <a href="https://www.youtube.com/channel/UC-PdAQFjgvjWuDECglST_ww/featured">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
  </a>
- <a href="https://open.spotify.com/playlist/6sowPC63k41U7pxRBiceJz">
+ <a href="https://open.spotify.com/playlist/1W6nBhYhHvoVgdoFrukvdx?si=911a2bfd7e1b4ebf">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
  </a>
 
