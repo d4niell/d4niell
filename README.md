@@ -17,7 +17,7 @@
     
 ### :woman_technologist: About Me :
 I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Finland.
-- :telescope: I'm working as a freestyle volunteer developer
+- :telescope: I'm working as a volunteer freestyle developer
 
 - :seedling: Exploring Technical Content Writing.
 
