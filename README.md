@@ -72,6 +72,6 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :zap: My Specs
 
-![gpu](https://img.shields.io/badge/NVIDIA-GTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![gpu](https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ![cpu](https://img.shields.io/badge/Intel-Core_i5_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
