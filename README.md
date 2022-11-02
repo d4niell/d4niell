@@ -5,10 +5,14 @@
  <a href="https://www.youtube.com/channel/UC-PdAQFjgvjWuDECglST_ww/featured">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
  </a>
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+ [![GitHub contributors](https://img.shields.io/github/contributors/d4niell/dbincpp-ImGUI)](https://github.com/d4niell/dbincpp-ImGUI/graphs/contributors) 
+ [![GitHub issues](https://img.shields.io/github/issues/coderjojo/creative-profile-readme)](https://github.com/d4niell/dbincpp-ImGUI/issues) 
+ [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/coderjojo/creative-profile-readme/pulls) 
+ [![HitCount](https://views.whatilearened.today/views/github/d4niell/d4niell.svg)](https://github.com/d4niell/d4niell)
  </div>
  <div align="center">
- <img src="https://gpvc.arturio.dev/github-profile-views-counter" alt=""/>
- <- totally not fake
   <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -26,8 +30,11 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - :mailbox:How to contact me:  
 -> discord: d4niel#8626
 
-### :hammer_and_wrench: Languages i use:
+### :hammer_and_wrench: Stats and languages i use:
 <div>
+ <img src= "https://github-readme-stats.vercel.app/api?username=d4niell" width "40px" height="200"/>
+ 
+ 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-plain.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" title="cpp" alt="cpp" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
