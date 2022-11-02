@@ -53,6 +53,8 @@
 ![releases](https://img.shields.io/github/release/d4niell/dbincpp-ImGUI.svg)
 
 ![commits](https://img.shields.io/github/commits-since/d4niell/dbincpp-ImGUI/v1.0.0.svg)
+
+![requests](https://img.shields.io/github/issues-pr/d4niell/dbincpp-ImGUI.svg)
    
 ### :woman_technologist: About Me :
 I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Finland.
@@ -65,9 +67,11 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - :mailbox:How to contact me:  
 -> discord: d4niel#8626
 
+
 <div>
  <img src= "https://github-readme-stats.vercel.app/api?username=d4niell" width "40px" height="200"/>
-          
+ <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=d4niell&theme=blue-green"
+
 </div>
 
 ### :zap: My Specs
