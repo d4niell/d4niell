@@ -51,6 +51,7 @@
 
 - dbincpp ImGUI
 - File Scanner ImGUI (old project from 2 years ago which i finally decided to recode again)
+- Node Project for school
 
 ## 📊 dbincpp ImGUI stats:
 
