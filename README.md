@@ -71,10 +71,10 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I spend most of my time with Ida, I go to gym, code, and play games
+- :zap: In my free time, I go to gym, code, and play games
 
 - :mailbox:How to contact me:  
--> discord: d4niel#8626
+-> discord: d4niel#4720
 
 
 <div>
