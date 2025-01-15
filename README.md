@@ -37,6 +37,12 @@ I'm Daniel Sirkiä, a passionate software developer with expertise in full-stack
 - 🥉 Created a modern weather dashboard with real-time updates and weather alerts
 
 ## 📚 Projects
+### [FileScanner](https://github.com/d4niell/filescanner)
+A powerful tool written in C++ for scanning and analyzing files. Features include:
+- Efficient file scanning algorithms
+- Detailed analysis reports
+- Flexible configuration options
+- User-friendly interface
 ### [DBinCPP ImGUI](https://github.com/d4niell/dbincpp)
 ![DBinCPP ImGUI](https://github.com/d4niell/dbincpp/screenshot.png)
 A sophisticated database management application built with ImGUI. Features include:
