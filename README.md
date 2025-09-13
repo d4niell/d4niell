@@ -1,61 +1,48 @@
-# Hi there, I'm Daniel Sirkiä 👋
+# Hi, I'm Daniel Sirkiä 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=d4niell&color=blue)
+![Age](https://img.shields.io/badge/Age-20-blue)
+![Location](https://img.shields.io/badge/Location-Finland-blueviolet)
+![Student](https://img.shields.io/badge/Status-Double%20Qualification%20Student-informational)
+![Cybersecurity Enthusiast](https://img.shields.io/badge/Focus-Cybersecurity-critical)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
+![ImGui](https://img.shields.io/badge/ImGui-powered-important)
+![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
+![Web Security](https://img.shields.io/badge/Web%20Security-OWASP-orange)
 
-![Daniel's Profile Picture](https://avatars.githubusercontent.com/u/yourusername?s=400&v=4)
+---
 
-## 🚀 About Me
-I'm Daniel Sirkiä, a passionate software developer with expertise in full-stack development and a keen interest in creating elegant solutions to complex problems. With over 6 years of experience in the industry, I thrive on tackling challenging projects and learning new technologies.
+##  About Me
 
-- 🔭 I’m currently working on [My Personal Blog Website](https://github.com/d4niell/dbincpp)
-- 🌱 I’m currently learning advanced C++ and ImGUI
-- 👯 I’m looking to collaborate on open-source projects related to web development and database management
-- 💬 Ask me about full-stack development, database management, and modern web technologies
-- 📫 How to reach me: [danielsirkia21@gmail.com](mailto:danielsirkia21@gmail.com)
-- ⚡ Fun fact: I once built a full-fledged application using ImGUI, a framework I had never worked with before, and it was a great success!
+I'm Daniel, a 20-year-old software developer from Finland, currently pursuing a double qualification as a Software Engineer and at Lyseo. My passion lies in software engineering, but my current focus is on cybersecurity and ethical hacking.
 
-## 🛠️ Skills
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+-  **Double Qualification:** Software Engineering & Lyseo
+-  **Next step:** Cybersecurity studies at University of Jyväskylä
+-  **Building now:** A cybersecurity dashboard with C++, ImGui, and CMake, focused on web vulnerability scanning, real-time reporting, and security research.
+-  **Currently Learning:** Web vulnerability testing, ethical hacking techniques, and secure coding best practices
+-  **Tech Stack:** C++, Python, JavaScript (React), ImGui, CMake, SQL, Node.js
+-  **Hobbies:** Experimenting with security tools, building automation bots, and contributing to open-source
 
-## 📈 GitHub Stats
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=d4niell&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4niell&layout=compact&theme=radical)
-
-## 🏆 Achievements
-- 🥇 Successfully built a sophisticated database management application using ImGUI
-- 🥈 Developed a full-stack e-commerce platform with user authentication and payment integration
-- 🥉 Created a modern weather dashboard with real-time updates and weather alerts
-
-## 📚 Projects
-### [FileScanner](https://github.com/d4niell/filescanner)
-A powerful tool written in C++ for scanning and analyzing files. Features include:
-- Efficient file scanning algorithms
-- Detailed analysis reports
-- Flexible configuration options
-- User-friendly interface
-### [DBinCPP ImGUI](https://github.com/d4niell/dbincpp)
-![DBinCPP ImGUI](https://github.com/d4niell/dbincpp/screenshot.png)
-A sophisticated database management application built with ImGUI. Features include:
-- Custom SQL query builder
-- Real-time data visualization
-- Advanced filtering and sorting
-- Intuitive user interface
+---
 
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/d4niell)
+> **A modern cybersecurity dashboard built with C++, ImGui, and CMake.**  
+> This project focuses on web vulnerability scanning, real-time results, and intuitive visualization for security research and education.
 
+---
 
-⭐️ From [Daniel Sirkiä](https://github.com/d4niell)
+## Skills & Tools
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![ImGui](https://img.shields.io/badge/ImGui-framework-important)
+![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-Security-orange)
+
+---
+
+ *Inspired to build, break, and secure the future.*
