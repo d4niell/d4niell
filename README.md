@@ -1,4 +1,4 @@
-# Hi, I'm Daniel Sirkiä 👋
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=d4niell&color=blue)
 ![Age](https://img.shields.io/badge/Age-20-blue)
