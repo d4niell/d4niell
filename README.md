@@ -14,7 +14,7 @@
 
 ##  About Me
 
-I'm Daniel, a 20-year-old software developer from Finland, currently pursuing a double qualification as a Software Engineer and at Lyseo. My passion lies in software engineering, but my current focus is on cybersecurity and ethical hacking.
+I'm Daniel, a 21-year-old software developer from Finland, currently pursuing a double qualification as a Software Engineer and at Lyseo. My passion lies in software engineering, but my current focus is on cybersecurity and ethical hacking.
 
 -  **Double Qualification:** Software Engineering & Lyseo
 -  **Next step:** Cybersecurity studies at University of Jyväskylä
