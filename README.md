@@ -19,21 +19,18 @@ I'm Daniel, a 21-year-old software developer from Finland, currently pursuing a 
 -  **Double Qualification:** Software Engineering & Lyseo
 -  **Next step:** Cybersecurity studies at University of Jyväskylä
 -  **Building now:** A cybersecurity dashboard with C++, ImGui, and CMake, focused on web vulnerability scanning, real-time reporting, and security research.
--  **Currently Learning:** Web vulnerability testing, ethical hacking techniques, and secure coding best practices
+-  **Currently Learning:** Full-Stack Development with various C# projects provided by school, along with my own which are written in Dart/Flutter and C#/C++
 -  **Tech Stack:** C++, Python, JavaScript (React), ImGui, CMake, SQL, Node.js
--  **Hobbies:** Experimenting with security tools, building automation bots, and contributing to open-source
-
----
-
-
-> **A modern cybersecurity dashboard built with C++, ImGui, and CMake.**  
-> This project focuses on web vulnerability scanning, real-time results, and intuitive visualization for security research and education.
+-  **Hobbies:** Gymnastics, Programming, Gaming and recently started downhill-skiing
 
 ---
 
 ## Skills & Tools
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-C--Sharp-brightgreen?style=flat&logo=csharp)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![ImGui](https://img.shields.io/badge/ImGui-framework-important)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
