@@ -14,13 +14,10 @@
 
 ##  About Me
 
-I'm Daniel, a 21-year-old software developer from Finland, currently pursuing a double qualification as a Software Engineer and at Lyseo. My passion lies in software engineering, but my current focus is on cybersecurity and ethical hacking.
-
--  **Double Qualification:** Software Engineering & Lyseo
--  **Next step:** Cybersecurity studies at University of Jyväskylä
--  **Building now:** A cybersecurity dashboard with C++, ImGui, and CMake, focused on web vulnerability scanning, real-time reporting, and security research.
+-  **Student Status:** I am currently studying software development at Gradia, but I am also completing EduJyväskylä studies that already include university‑level assignments, which guarantees me a study place at JAMK.
+-  **Next step:** Information and Communication Technology, Bachelor of Engineering at JAMK
 -  **Currently Learning:** Full-Stack Development with various C# projects provided by school, along with my own which are written in Dart/Flutter and C#/C++
--  **Tech Stack:** C++, Python, JavaScript (React), ImGui, CMake, SQL, Node.js
+-  **Tech Stack:** C++, Python, JavaScript (React), ImGui, CMake, SQL, Node.js, Dart, Flutter, C#
 -  **Hobbies:** Gymnastics, Programming, Gaming and recently started downhill-skiing
 
 ---
