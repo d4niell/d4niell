@@ -1,7 +1,7 @@
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=d4niell&color=blue)
-![Age](https://img.shields.io/badge/Age-20-blue)
+![Age](https://img.shields.io/badge/Age-21-blue)
 ![Location](https://img.shields.io/badge/Location-Finland-blueviolet)
 ![Student](https://img.shields.io/badge/Status-Double%20Qualification%20Student-informational)
 ![Cybersecurity Enthusiast](https://img.shields.io/badge/Focus-Cybersecurity-critical)
