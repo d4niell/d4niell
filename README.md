@@ -12,12 +12,15 @@
 
 ---
 
+## Current Project
+###  TCP-Chat (A school project but in consideration of making it real)
+
 ##  About Me
 
 -  **Student Status:** I am currently studying software development at Gradia, but I am also completing EduJyväskylä studies that already include university‑level assignments, which guarantees me a study place at JAMK.
 -  **Next step:** Information and Communication Technology, Bachelor of Engineering at JAMK
 -  **Currently Learning:** Full-Stack Development with various C# projects provided by school, along with my own which are written in Dart/Flutter and C#/C++
--  **Tech Stack:** C++, Python, JavaScript (React), ImGui, CMake, SQL, Node.js, Dart, Flutter, C#
+-  **Tech Stack:** C++, Python, JavaScript (React), ImGui, CMake, SQL, Node.js, Dart, Flutter and C#
 -  **Hobbies:** Gymnastics, Programming, Gaming and recently started downhill-skiing
 
 ---
@@ -35,7 +38,6 @@
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-Security-orange)
 
 ---
 
