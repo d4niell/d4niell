@@ -13,7 +13,52 @@
 ---
 
 ## Current Project
-###  TCP-Chat (A school project but in consideration of making it real)
+
+# TCP Chat — Flutter Client
+
+A lightweight, cross‑platform **Flutter TCP chat client** that communicates with a custom TCP server over raw sockets.  
+This project focuses on simplicity, real‑time messaging, and a clean desktop‑friendly UI.
+
+> **Important:**  
+> The **server is NOT included in this repository**.  
+> The TCP server is a **separate project made by me**, and this Flutter client connects to it.
+
+---
+
+## Features
+
+- Connects to a TCP server using `dart:io`
+- Login system (username + password)
+- Real‑time chat messaging
+- Auto‑scrolling message list
+- Message bubbles with left/right alignment
+- Custom overlay notification system
+- Sidebar navigation (Login → Join Room → Chat)
+- Desktop‑friendly layout (Windows/Linux/macOS)
+- Also works on Android/iOS
+
+---
+
+## Architecture Overview
+
+
+The Flutter client handles:
+
+- UI rendering  
+- Login flow  
+- Room joining  
+- Sending/receiving messages  
+- Displaying chat history  
+
+The server handles:
+
+- Authentication  
+- Room management  
+- Broadcasting messages  
+- User lists  
+- Protocol parsing  
+
+---
 
 ##  About Me
 
