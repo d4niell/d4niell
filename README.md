@@ -4,7 +4,6 @@
 ![Age](https://img.shields.io/badge/Age-21-blue)
 ![Location](https://img.shields.io/badge/Location-Finland-blueviolet)
 ![Student](https://img.shields.io/badge/Status-Double%20Qualification%20Student-informational)
-![Cybersecurity Enthusiast](https://img.shields.io/badge/Focus-Cybersecurity-critical)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
 ![ImGui](https://img.shields.io/badge/ImGui-powered-important)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
