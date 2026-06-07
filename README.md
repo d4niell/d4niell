@@ -5,9 +5,7 @@
 ![Location](https://img.shields.io/badge/Location-Finland-blueviolet)
 ![Student](https://img.shields.io/badge/Status-Double%20Qualification%20Student-informational)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
-![ImGui](https://img.shields.io/badge/ImGui-powered-important)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
-![Web Security](https://img.shields.io/badge/Web%20Security-OWASP-orange)
 
 ---
 
