@@ -29,6 +29,7 @@ This project focuses on simplicity, real‑time messaging, and a clean desktop�
 - Real‑time chat messaging
 - Auto‑scrolling message list
 - Message bubbles with left/right alignment
+- Message timestamps
 - Custom overlay notification system
 - Sidebar navigation (Login → Join Room → Chat)
 - Desktop‑friendly layout (Windows/Linux/macOS)
