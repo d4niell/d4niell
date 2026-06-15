@@ -22,6 +22,10 @@ This project focuses on simplicity, realâ€‘time messaging, and a clean desktopâ€
 
 ---
 
+# Screenshots
+![Chat UI](https://i.imgur.com/SvP7wID.jpg)
+![Login UI](https://imgur.com/uEC4xpG.jpg)
+
 ## Features
 
 - Connects to a TCP server using `dart:io`
