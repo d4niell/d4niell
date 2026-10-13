@@ -25,6 +25,7 @@ This project focuses on simplicity, realâ€‘time messaging, and a clean desktopâ€
 # Screenshots
 ## v.0.0.2
 ![Chat UI](https://imgur.com/7L6idTW.jpg)
+![Settings UI](https://imgur.com/cY9gQUM.jpg)
 ![Login UI](https://imgur.com/g894tT1.jpg)
 
 # Previous Versions 
