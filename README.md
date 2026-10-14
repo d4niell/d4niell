@@ -9,14 +9,15 @@
 ![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
 
 ---
-
+# Currently working on a chat project as a full-stack developer
+--
 ##  About Me
 
 -  **Student Status:** I am currently studying software development at Gradia, but I am also completing EduJyväskylä studies that already include university‑level assignments, which guarantees me a study place at JAMK.
 -  **Next step:** Information and Communication Technology, Bachelor of Engineering at JAMK
 -  **Currently Learning:** Full-Stack Development with various C# projects provided by school, along with my own which are written in Dart/Flutter and C#/C++
 -  **Tech Stack:** C++, Python, JavaScript (React), ImGui, CMake, SQL, Node.js, Dart, Flutter and C#
--  **Hobbies:** Gymnastics, Programming, Gaming and recently started downhill-skiing
+-  **Hobbies:** Gymnastics, Programming, MMA, Gaming and recently started downhill-skiing
 
 ---
 
