@@ -8,7 +8,7 @@
 
 ---
 # Currently working on a closed chat project as a full-stack developer
-
+![Sneak peek](https://imgur.com/g75TKih.jpg)
 ##  About Me
 
 -  **Student Status:** I am currently studying software development at Gradia, but I am also completing EduJyväskylä studies that already include university‑level assignments, which guarantees me a study place at JAMK.
