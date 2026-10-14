@@ -1,71 +1,12 @@
 
 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=d4niell&color=blue)
 ![Age](https://img.shields.io/badge/Age-21-blue)
 ![Location](https://img.shields.io/badge/Location-Finland-blueviolet)
 ![Student](https://img.shields.io/badge/Status-Double%20Qualification%20Student-informational)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
-
----
-
-## Current Project
-
-# TCP Chat — Flutter Client
-
-A lightweight, cross‑platform **Flutter TCP chat client** that communicates with a custom TCP server over raw sockets.  
-This project focuses on simplicity, real‑time messaging, and a clean desktop‑friendly UI.
-
-> **Important:**  
-> The **server is NOT included in this repository**.  
-> The TCP server is a **separate project made by me**, and this Flutter client connects to it.
-
----
-
-# Screenshots
-## v.0.0.2
-![Chat UI](https://imgur.com/7L6idTW.jpg)
-![Settings UI](https://imgur.com/cY9gQUM.jpg)
-![Login UI](https://imgur.com/g894tT1.jpg)
-
-# Previous Versions 
-## v.0.0.1
-![Chat UI](https://i.imgur.com/SvP7wID.jpg)
-![Login UI](https://imgur.com/uEC4xpG.jpg)
-
-## Features
-
-- Connects to a TCP server using `dart:io`
-- Login system (username + password)
-- Real‑time chat messaging
-- Auto‑scrolling message list
-- Message bubbles with left/right alignment
-- Message timestamps
-- Custom overlay notification system
-- Sidebar navigation (Login → Join Room → Chat)
-- Desktop‑friendly layout (Windows/Linux/macOS)
-- Also works on Android/iOS
-
----
-
-## Architecture Overview
-
-
-The Flutter client handles:
-
-- UI rendering  
-- Login flow  
-- Room joining  
-- Sending/receiving messages  
-- Displaying chat history  
-
-The server handles:
-
-- Authentication  
-- Room management  
-- Broadcasting messages  
-- User lists  
-- Protocol parsing  
 
 ---
 
