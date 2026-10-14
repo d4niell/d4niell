@@ -9,8 +9,8 @@
 ![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
 
 ---
-# Currently working on a chat project as a full-stack developer
---
+# Currently working on a closed chat project as a full-stack developer
+
 ##  About Me
 
 -  **Student Status:** I am currently studying software development at Gradia, but I am also completing EduJyväskylä studies that already include university‑level assignments, which guarantees me a study place at JAMK.
